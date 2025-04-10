@@ -1,4 +1,5 @@
 {
+	"credit": "Made with Blockbench",
 	"parent": "minecraft:item/handheld",
 	"textures": {
 		"layer0": "server:item/scythe"
@@ -28,8 +29,8 @@
 		},
 		"head": {
 			"rotation": [21, 32, 73],
-			"translation": [8.75, 9, -6.25],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [11, 9, -6.25],
+			"scale": [2, 2, 2]
 		},
 		"fixed": {
 			"rotation": [0, 1, 45],
