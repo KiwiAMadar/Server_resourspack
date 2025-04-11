@@ -1,0 +1,34 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "server:item/izanagikard"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 45],
+			"translation": [0, 10, 2],
+			"scale": [1.5, 1.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -45],
+			"translation": [0, 10, 2],
+			"scale": [1.5, 1.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 40],
+			"translation": [3, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -40],
+			"translation": [3, 5, 0]
+		},
+		"ground": {
+			"translation": [0, 7.5, 0]
+		},
+		"fixed": {
+			"rotation": [90, 13, 20],
+			"translation": [-6.75, -2.5, -15.25],
+			"scale": [3, 3, 3]
+		}
+	}
+}
