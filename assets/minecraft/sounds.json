@@ -1,3 +1,4 @@
 {
-    "custom.epic_slash": { "category": "master", "sounds": [ "custom/epic_slash" ]}
+    "custom.epic_slash": { "category": "master", "sounds": [ "custom/epic_slash" ]},
+    "custom.epic": { "category": "master", "sounds": [ "custom/epic" ]}
 }
