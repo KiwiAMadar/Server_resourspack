@@ -1,0 +1,9 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "texture": "server:root_rot"
+            }
+        ]
+    }
+}
